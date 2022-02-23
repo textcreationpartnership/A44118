@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A vvord to the saints from the watch tower. By a faithful embassadour, in bonds for the gospel divers years. F. H.</title>
+            <author>Holcroft, Francis, 1629?-1693.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1668</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 22 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A44118</idno>
+            <idno type="STC">Wing H2374A</idno>
+            <idno type="STC">ESTC R216408</idno>
+            <idno type="EEBO-CITATION">99828139</idno>
+            <idno type="PROQUEST">99828139</idno>
+            <idno type="VID">32566</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A44118)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 32566)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1926:12)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A vvord to the saints from the watch tower. By a faithful embassadour, in bonds for the gospel divers years. F. H.</title>
+                  <author>Holcroft, Francis, 1629?-1693.</author>
+               </titleStmt>
+               <extent>[2], 25, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year 1668.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>F. H. = Francis Holcroft; attribution from Wing.</note>
+                  <note>Reproduction of the original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Covenant theology --  Early works to 1800.</term>
+               <term>Pastoral theology --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2008-12</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-02</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:32566:1" rendition="simple:additions"/>
+            <p>A WORD TO THE SAINTS FROM THE Watch Tower</p>
+            <p>By a Faithful Embaſſadour, In Bonds for the Goſpel divers years, <hi>F. H.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed in the year 1668.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:32566:2"/>
+            <pb n="1" facs="tcp:32566:2"/>
+            <head>
+               <hi>Cambridge-Caſtle</hi> 27 <hi>Decem.</hi> 1667. TO THE Faithful Brethren in Chriſt IN <hi>LONDON:</hi> FRANCIS HOLCROFT <hi>Wiſheth Grace, Mercy,</hi> &amp; <hi>Peace, from God our Father, and the Lord Jeſus Chriſt.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">B</seg>Eing in the morning before the Throne of Grace ye<g ref="char:EOLhyphen"/>ſterday, ſeeking the face of God, the word of God came with power to my Soul, with reſpect to the Church of God here,
+<pb n="2" facs="tcp:32566:3"/>and all the <hi>Iſrael</hi> of <hi>God</hi> with us in the Land: <hi>Ezra</hi> 9.8, 9. It's ſaid before, <hi>Since the days of our Fathers, we have been in a great treſpaſs unto this day; and for our Iniquities both we, our Kings, our Prieſts, have been deliver<g ref="char:EOLhyphen"/>ed into the hands of the Kings of the Lands, to the Sword, to Captivity, and to Spoil, and to confuſion of face, as it is this day:</hi> (Which hath been now our caſe for about ſeven years, but that in part onely, for how marve<g ref="char:EOLhyphen"/>louſly hath our God, through this time of our affliction and confuſion of face, ſtayed the rough Winds and Storms of Perſecution, by one or other wonderful and remarkably wiſe and gracious work in his Providence and Adminiſtration of things in the world.) But as if that were not enough for us, a ſinful People of his, Mark what our gratious God ſpeaks by his providence and works to us <hi>at this time,</hi> and that in this word I
+<pb n="3" facs="tcp:32566:3"/>mention, Verſ. 8, 9. <hi>And now for a little ſpace grace hath been ſhewed from the Lord our God, to leave us a Rem<g ref="char:EOLhyphen"/>nant to eſcape, and to give us a Nail in his holy place, that our God may ligh<g ref="char:EOLhyphen"/>ten our eyes, and give us a little revi<g ref="char:EOLhyphen"/>ving in our bondage, for we were bond<g ref="char:EOLhyphen"/>men; yet our God hath not forſaken us in our bondage, but hath extended mer<g ref="char:EOLhyphen"/>cy to us in the ſight of the Kings of Per<g ref="char:EOLhyphen"/>ſia, to give us a reviving to ſet up the Houſe of God, and to repair the deſo<g ref="char:EOLhyphen"/>lations thereof, and to give us a Wall in Judah and in Jeruſalem.</hi>
+            </p>
+            <p>Having had many thoughts touch<g ref="char:EOLhyphen"/>ing this word of God, and the grace of God towards us his People therein declared for the help of our Faith: I found upon further conſideration, that it may be you, my dearly belo<g ref="char:EOLhyphen"/>ved Brethren in Chriſt, both the Pri<g ref="char:EOLhyphen"/>ſoners of the Lord with you, and a the reſt, are in an eſpecial manner con<g ref="char:EOLhyphen"/>cerned in this word; and that fora<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <pb n="4" facs="tcp:32566:4"/>much as <hi>this grace</hi> hath been now for ſome time paſt given you from the Lord, ſince the fearful Judgements of God by Plague and Fire have brake out on you. I ſay, <hi>grace</hi> hath been ſhewed you from the Lord, to enjoy greater Liberties than your Brethren; and again, our God hath brought you to ſee ſomewhat of the glory of the ſolemn Aſſemblies, for which you that are Mourners have been ſorrowful; our God hath in ſome meaſure been gathering you, &amp; bring<g ref="char:EOLhyphen"/>ing you again, the Miniſters of God, and others, to the places of concourſe. God hath opened a wide door to ſome of <hi>You,</hi> which our God make <hi>yet more and more effectual;</hi> for which things we <hi>your Brethren,</hi> I hope many of us in the Countrie, in Priſons, and others, have and do rejoice, bleſſing God <hi>by</hi> Jeſus Chriſt.</p>
+            <p>I thank our God, I have at ſome <gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap>mes, on the <hi>Lords Days</hi> eſpeciallie,
+<pb n="5" facs="tcp:32566:4"/>been at libertie in my Soul; being preſent in ſpirit with you ſomewhat in <hi>your Solemn Aſſemblies,</hi> rejoicing with <hi>you</hi> in this Mercie, brought to <hi>you by</hi> ſo <hi>wonderful</hi> a hand of our God.</p>
+            <p>Now obſerve the Language the Holy-Ghoſt here uſeth to ſet out this thing.</p>
+            <p>
+               <hi>Now for a little ſpace GRACE hath been ſhewed from the Lord our God:</hi> Mark that word <hi>Grace,</hi> and that <hi>from the Lord our God:</hi> Its the language of <hi>Ezra, by</hi> Faith laying hold of the everlaſting Covenant of Grace, on the behalf of Gods own People. Under the Law God ſpake ſo to his people, <hi>Lev.</hi> 2.13. <hi>And every oblation of thy meat-offering ſhalt thou ſeaſon with ſalt, neither ſhalt thou ſuffer the ſalt of the Covenant of thy God to be lack<g ref="char:EOLhyphen"/>ing from thy meat-offering; with all bine offerings ſhalt thou offer Salt;</hi> and ſo up and down in the Word, we
+<pb n="6" facs="tcp:32566:5"/>find the holy men of God in their Prayers and Preaching, their ſpiri<g ref="char:EOLhyphen"/>tual offerings, offering Salt, even the Salt of the Covenant of their God, as <hi>Ezra</hi> here, <hi>Grace hath been ſhewed from the Lord our God;</hi> whoſe Covenant is this, <hi>I will be their God, and they ſhall be my People, ſaith the Lord.</hi>
+            </p>
+            <p>Now I deſire that you and we may by Faith wrought by the Spirit of grace, ſavour more the grace of this gracious diſpenſation of our God and Father; <hi>Grace hath been ſhewed us from the Lord our God in it.</hi> There is in it eſpecial favour of grace; grace flowing from the Co<g ref="char:EOLhyphen"/>venant of grace, where our God is making known to the Elect, called Heirs of Promiſe, the immutability and unchangeableneſs of his Coun<g ref="char:EOLhyphen"/>ſels and eternal purpoſes of grace, Liberty and reviving in Bondage, given as a fruit of grace, and given
+<pb n="7" facs="tcp:32566:5"/>with the grace and ſhinings of the face of God, is a mercy indeed; ſuch as the world have not, they know not what it is.</p>
+            <p>Now (My Brethren) you know the grace of the Covenant of grace, was made known graciouſly in the in the firſt Teſtament. But now in the new and better Teſtament, whereof our Lord Chriſt is the Me<g ref="char:EOLhyphen"/>diator, the Son of God himſelf, Grace is more abundantly made known by Ieſus Chriſt; the great deſign of the Goſpel of God, being the manifeſtation of <hi>the glory of the onely begotten Son of God, his Belo<g ref="char:EOLhyphen"/>ved in whom he is well pleaſed,</hi> and ſo the love alſo with which God hath loved his Elect, who are by the Fa<g ref="char:EOLhyphen"/>ther, given to Ieſus Chriſt, of whom the Lord Chriſt thus ſpeaks, <hi>Iohn</hi> 17. <hi>That the World may know that thou haſt ſent me, and haſt loved them as thou haſt loved me.</hi>
+            </p>
+            <pb n="8" facs="tcp:32566:6"/>
+            <p>Now the God of all grace, pour out richly on you, and us, at this ſea<g ref="char:EOLhyphen"/>ſon, through our Lord Jeſus, the Spi<g ref="char:EOLhyphen"/>rit of grace and ſupplication, that he may fill our hearts with the Faith, and ſweet Savour of this grace of God, ſhewed to Gods people at this time.</p>
+            <p>I was glad to obſerve of late, what is ſaid of Holy Mr. <hi>Rutherford</hi> (one who faithfully teſtified and defended in his Generation, the Doctrine of the Goſ<g ref="char:EOLhyphen"/>pel of the grace of God) It's ſaid that when the Lord at the beginning of theſe times, took him to himſelf; on his death-bed he had on his heart, in ſome eſpecial manner, a deſire, that all the Saints might inſtantly wreſtle with God for the pouring out of the Spirit of grace &amp; ſupplications, according to the Promiſe, <hi>Zach.</hi> 12.10. Thus ſhall great godly ſorrow, working repen<g ref="char:EOLhyphen"/>tance
+<pb n="9" facs="tcp:32566:6"/>never to be repented of, be given <hi>to the Houſe of</hi> David <hi>and In<g ref="char:EOLhyphen"/>habitants of</hi> Jeruſalem, both <hi>Jews</hi> and <hi>Gentiles</hi> in the laſt dayes, who ſhall wall over Chriſt, whom they have pierced, <hi>even all the Kindreds of the Earth, even ſo</hi> Amen. Thus our Back-ſlidings from our God, and our Breaches amongſt our ſelves ſhall be healed, as it's ſaid by the Prophet <hi>Ieremiah,</hi> Chap. 50. <hi>In thoſe dayes and in that time, ſaith the Lord, the Children of</hi> Judah <hi>ſhall come, they and the Children of</hi> Iſrael <hi>together,</hi> (amongſt whom there had been much bitter and laſting ſtrifes, for ages and generations) <hi>they ſhall come, going and weeping, they ſhall go and ſeek the Lord their God: they ſhall ask the way to</hi> Zion, <hi>with their faces thither-ward; ſaying, Come, and let us joyn our ſelves to the Lord in a per<g ref="char:EOLhyphen"/>petual Covenant, that ſhall not be for<g ref="char:EOLhyphen"/>gotten.</hi>
+            </p>
+            <pb n="10" facs="tcp:32566:7"/>
+            <p>(Holy Brethren) Let our hearts, deſires, and prayers, be inſtant with the Lord ſtill, that <hi>this grace</hi> ſhewed us from our God, may teach us to deny thoſe worldly Luſts, and Co<g ref="char:EOLhyphen"/>vetings, and ungodlineſs, for which our God hath thus waſted us; and that we may be more taught now by the <hi>grace</hi> of God, that brings Salva<g ref="char:EOLhyphen"/>tion, the grace by which we are ſa<g ref="char:EOLhyphen"/>ved (that which the Holy Ghoſt calls <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, The grace of God that is ſaving; or that brings Salvation) <hi>Bygrace,</hi> ſaith the ſame Apoſtle again, <hi>are you ſaved,</hi> (2 <hi>Eph.</hi>) and alſo by this grace of God, in giving us this reviving, to <hi>live ſoberly, righteouſly, and godly in this preſent world, waiting, and look<g ref="char:EOLhyphen"/>ing for the Bleſſed Hope, and the glo<g ref="char:EOLhyphen"/>rious appearings of the great God and our Saviour the Lord Jeſus Chriſt.</hi>
+            </p>
+            <pb n="11" facs="tcp:32566:7"/>
+            <p>But I pray let us return again to the Word of God. <hi>Now for a little ſpace grace hath been given us from the Lord our God, to leave us a Rem<g ref="char:EOLhyphen"/>nant to eſcape, and to give us a little reviving in our Bondage.</hi>
+            </p>
+            <p>Further, Obſerve this word <hi>little;</hi> and weigh it well: It is here twice repeated. And therein our God as by a Watch-word, ſpeaks to you in <hi>Lon<g ref="char:EOLhyphen"/>don,</hi> and to us all (for I am prone to hope that this grace may yet reach further to you, and to your Brethren, then yet it hath done) this <hi>grace</hi> given he ſpeaks of, is but for a <hi>Little Space,</hi> and to give us a <hi>Little reviving in our Bondage,</hi> in brief thus. I have not been alone perſwaded of it from ſundry weighty grounds, taken from ſundry weighty grounds, taken from the word of God, that the fiery Try<g ref="char:EOLhyphen"/>al that waits yet for us is not over, yet are the ways of our God in the
+<pb n="12" facs="tcp:32566:8"/>deep; and he oft repents him gra<g ref="char:EOLhyphen"/>ciouſly of <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he evil he threatens; and ſo I or others, I judge, ought not to ſpeak peremptorily in theſe ſecret things which belong to God. But I oft have thought that word of God is for us, that in <hi>Ier.</hi> 9. after the Prophet had cried out, againſt the great ſins of Gods own Children, <hi>verſ.</hi> 7. ſaith thus, <hi>Therefore, thus ſaith the Lord of Hoſts; Behold I will melt them, and try them: for how ſhall I do for the Danghter of my People?</hi> But now as the Lord ſpeaks by ano<g ref="char:EOLhyphen"/>the Prophet, <hi>And becauſe I will do thus, prepare to meet thy God O Iſrael.</hi> I am prone to think and believe, that grace is now given us in this little ſpace and little reviving from our Bondage that is come, and may be yet coming; <hi>For this very end, that</hi> Iſrael <hi>may be prepared to meet God in that fiery Tryal that may yet be,</hi> viz<g ref="char:punc">▪</g> 
+               <hi>An hour of darkneſs, before the utter
+<pb n="13" facs="tcp:32566:8"/>downfal and judgment of the Whore, which alſo haſteth greatly;</hi> when God ſhall avenge the bloud of his Ser<g ref="char:EOLhyphen"/>vants at her hand; after which, there ſhall be heard as the voice of many waters (<hi>viz.</hi> Peoples and Kindreds) Saying; <hi>Alleluja, for the LORD GOD Omnipotent reigneth,</hi> as ſaith the Apoſtle <hi>Iohn,</hi> Rev. 19. Then God will haſten the Coming in of that fulneſs of the Gentiles, which ſhall be before the Iews be converted, <hi>For blindneſs</hi> (ſaith the Apoſtle <hi>Paul) in part is happened to</hi> Iſrael, <hi>until the fulneſs of the Gentiles be come in; and ſo all</hi> Iſrael <hi>ſhall be ſa<g ref="char:EOLhyphen"/>ved:</hi> And the fulneſs of the Iews (<hi>Rom.</hi> 11.) ſhall be alſo the Riches of the Gentiles, as was their Fall and Diminiſhing: <hi>Then the Kingdoms of this world ſhall become the Kingdoms of our Lord and Chriſt; and he ſhall Reign for ever and ever.</hi> And after this ſpreading of the Kingdom of
+<pb n="14" facs="tcp:32566:9"/>God, and the <hi>Grain of Muſtard-Seed,</hi> (to which the Lord Chriſt compares his Kingdom) ſhall be grown; and that <hi>Leaſt of all Seeds</hi> ſhall become the Greateſt among Herbs, and become a Tree, ſo that the Birds of the Air come and lodge in the branches thereof.</p>
+            <p>After this ſhall come, as it is writ<g ref="char:EOLhyphen"/>ten, <hi>The Time of the Dead, that they ſhould be Iudged; and God ſhall Give Rewards to his Servants the Prophets, and to the Saints, and to Them that Fear his Name, ſmall and great; and he ſhall Deſtroy them that corrupt the Earth.</hi>
+            </p>
+            <p>Till which time of the Reſurrecti<g ref="char:EOLhyphen"/>on of the Dead, and of the Eternal Iudgment, I thank God I dare not, I do not, (with Gods Church of old) look for any Perſonal appearing of Chriſt: For any Third Perſonal
+<pb n="15" facs="tcp:32566:9"/>Coming of the Son of man on Earth; which I judge to be as A<g ref="char:EOLhyphen"/>pocryphal, and a dangerous Error touching thoſe grand Fundamental Principles of the Oracles of God, <hi>viz.</hi> The Doctrine of the Reſur<g ref="char:EOLhyphen"/>rection of the Dead, and of the E<g ref="char:EOLhyphen"/>ternal Iudgment, <hi>Vnto them,</hi> (ſaith the Apoſtle) <hi>that Look for him, ſhall He Appear the ſecond time without ſin unto Salvation.</hi>
+            </p>
+            <p>Dangerous and contrary to Scripture it is, to expect any end to be put to the Miniſtration of the Spi<g ref="char:EOLhyphen"/>rit, the Comforter, in this World; before the End of it: He is now now come; now Ieſus, the other Com<g ref="char:EOLhyphen"/>forter, is Gone away; and now He (the Spirit on earth) continueth to bear witneſs with the Water and with the Bloud; <hi>For theſe three bear witneſs</hi> (ſaith the Apoſtle <hi>Iohn) on earth, And they agree in one.</hi> I ſay, danger<g ref="char:EOLhyphen"/>ous
+<pb n="16" facs="tcp:32566:10"/>is it to ſuppoſe a Coming of the Son of Man in Perſon, that either ſhall not put an end to the admini<g ref="char:EOLhyphen"/>ſtration of the Lord (the Spirit) here in the Church, (ſee 1 <hi>Tim.</hi> 6.14. and 1 <hi>Cor.</hi> 11.26.) or that ſhall put an end to it before That moment the A<g ref="char:EOLhyphen"/>poſtle <hi>Paul</hi> ſpeaks of, when <hi>the Trumpet ſhall ſound, and the Dead ſhall be raiſed incorruptible, and the Harveſt comes</hi> which Chriſt calls the end of the World; how unſafe, I ſay, either of theſe Aſſertions be, let thoſe that fear God judge, <hi>viz.</hi> the Children, to whom it is <hi>given</hi> to underſtand the <hi>Myſteries</hi> of the Kingdom.</p>
+            <p>Now (dearly beloved Brethren) let us mind what now lies before us; and whatever our hand finds to do, in this little ſpace of <hi>reviving from bondage,</hi> let us do it with all our might; for I am prone to think the
+<pb n="17" facs="tcp:32566:10"/>night comes again, wherein little work will be done.</p>
+            <p>Now I ſhall conclude in the name of our Lord Chriſt, earneſtly ad<g ref="char:EOLhyphen"/>moniſhing you to redeem this ſeaſon of Grace.</p>
+            <p>Let the Miniſters of God, the Dreſſers of Chriſts Vineyard, that have by Jeſus Chriſt prevailed for the Fig-Tree, that it ſhould not be Cut down, but be let alone this year alſo; Let us (Brethren) call to mind our Vows and Promiſes in the dayes of our wreſtlings; how that if God would truſt us again with an Harveſt-Seaſon, that we would be more Faithful and Laborious, <hi>&amp;c.</hi> So in the Parable, ſaith the Dreſſer of the Vineyard, <hi>Lord let it alone this year alſo, till I Dig about it, and Dung it;</hi> which was a kind of Promiſe to God: As if he ſhould ſay, Ah Lord!
+<pb n="18" facs="tcp:32566:11"/>Let it yet alone, and how will<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Labour and Dig about it; and Dung it, <hi>&amp;c.</hi> And then Let all the Saints, and alſo the Land, Mind what follows: <hi>And if it Bear Fruit, Well;</hi> (Well indeed!) <hi>and if not</hi> (ſaith the Dreſſer, who be<g ref="char:EOLhyphen"/>fore prayed for it) <hi>Then after that Thou ſhalt Cut it Down:</hi> And there will be then No remedy.</p>
+            <p>Now to the end we may <hi>wiſely</hi> improve this Gracious Space of <hi>re<g ref="char:EOLhyphen"/>viving from our Bondage,</hi> that is by grace given us; I beſeech you, (as a Worker together with the Lord and his Miniſters) that you Receive not <hi>This Grace of God in Vain:</hi> Let's mourn for All the <hi>paſt Grace</hi> that we have received in <hi>vain;</hi> and Watch how we <hi>receive,</hi> and <hi>learn</hi> by <hi>this Grace</hi> that hath been ſhewed us from the Lord: To <hi>Him</hi> let our <hi>eyes</hi> be, beyond all <hi>Inſtruments;</hi> Let us, I ſay, Learn Holineſs and Godlineſs.</p>
+            <pb n="19" facs="tcp:32566:11"/>
+            <p>And that we may herein be fur<g ref="char:EOLhyphen"/>thered,</p>
+            <p>Conſider for what Ends our God may Vouchſafe us <hi>this Breathing:</hi> Call to mind what I ſaid partly be<g ref="char:EOLhyphen"/>fore, that our Father ſeeing, how Back-ſlidden, how Luke-warm we are, how unaccuſtomed to his Yoke, and Croſs; and how Averſe we have ſhewed our ſelves to bear them; how readyto walk after the Carnal Imagi<g ref="char:EOLhyphen"/>nations of our Own hearts; He will give us a Little reviving in our Bon<g ref="char:EOLhyphen"/>dage, to further the Reviving of our Souls by Faith and Sound Repen<g ref="char:EOLhyphen"/>tance, and Recovering; that there<g ref="char:EOLhyphen"/>by our firſt Love may be reſtored, and that we may be put into Heart for the Storm that is Coming; for it will put All that is within us to it. If the Righteous ſhall be there in Scarce<g ref="char:EOLhyphen"/>ly ſaved, where then ſhall the ungod<g ref="char:EOLhyphen"/>ly
+<pb n="20" facs="tcp:32566:12"/>and Sinners appear, even, when this Judgment ſhall again begin at the Houſe of God?</p>
+            <p>Beware of Falſe Miſtaken Prophets, that ſay the bitterneſs of death in theſe things is over, leaſt you find at laſt they Bite with the Teeth, though you now love to hear them cry to you, peace, peace. There hath been too much of this daubing with untempe<g ref="char:EOLhyphen"/>red Mortar already: The Lord Spare us.</p>
+            <p>Here is more than two years, and an half, twice told, paſſed over us, ſince our Affliction began: and yet I think we hardly judge the Witneſſes are yet riſen. And how many then, herein already, have been found falſe Wit<g ref="char:EOLhyphen"/>neſſes, that have preſumed far and much about Set times, ſee you to it.</p>
+            <p>In this ſeaſon, Cry out in the Spirit
+<pb n="21" facs="tcp:32566:12"/>every one, <hi>O ſpare me that I may re<g ref="char:EOLhyphen"/>cover ſtrength, before the evil day come!</hi> How loud doth God call in that word to us, in the words of the Prophet, <hi>Ier.</hi> 12. <hi>If thou haſt run with the Footmen, and they have wearied thee then how canst thou contend with Horſes? And if in the Land of Peace wherein thou truſtedſt, they wearied thee; then How wilt thou do in the ſwelling of Jordan?</hi> The <hi>Race</hi> with the <hi>Horſemen,</hi> and the <hi>Sivelling</hi> of <hi>Jordan</hi> are yet (I judge) to come: And now a ſeaſon is given you to pre<g ref="char:EOLhyphen"/>pare for them, improve it; and with dread call to mind how many have in theſe Nations, by as it were the very <hi>Looking out</hi> of Tribulation, not only been found fainting too much, which Gods Own muſt Mourn for; but they have been Tired out<g ref="char:EOLhyphen"/>right, and are turned Apoſtates, Per<g ref="char:EOLhyphen"/>jured, Covenant-Breakers, Pro<g ref="char:EOLhyphen"/>pliane, and Superſtitious, <hi>&amp;c.</hi> and
+<pb n="22" facs="tcp:32566:13"/>that after Enlightnings.</p>
+            <p>Furthermore (Brethren) to the end you may husband and improve this <hi>little ſpace</hi> aright, Mark in the Text for what ends there mentioned, it is Given to us, as to them of old; and Let us See to it, that we do not forget or over-look them, and trifle about them. <hi>Now for a little ſpace</hi> (ſaith he) <hi>Grace hath been given us from the Lord our God, to leave us a Remnant to Eſcape.</hi> Call to mind the time, when not ſo long ſince, you lay in fears in your Beds, night by night, becauſe of the Fury of Bloudy Papiſts, as if they were ready to deſtroy: and Where is the fury of thoſe Enemies? How doth God at preſent Say to the Flouds of the Ungodly, Stand ſtill? <hi>The captive Exile haſteneth that he may be Looſed, and that he ſhould not Die in the Pit, nor his Bread ſhould fail.</hi>
+            </p>
+            <pb n="23" facs="tcp:32566:13"/>
+            <p>Again, read on, This is <hi>to give us a Nail in his holy Place;</hi> and it is repeated, verſ. 9. <hi>To give us a Revi<g ref="char:EOLhyphen"/>ving to Set up the houſe of our God, and to Repair the Deſolations thereof, and to give us a Wall in</hi> Judah <hi>and</hi> Jer<g ref="char:EOLhyphen"/>uſalem: Let all of us now ſee to it, that
+<note n="†">
+                  <hi>Ezek.</hi> 22.8.</note> we Deſpiſe not, as formerly, Gods Holy things; and that we yield our ſelves unto the Lord, and Enter into his San<g ref="char:EOLhyphen"/>ctuary, which he hath ſanctified for ever;
+<note n="*">
+                  <hi>Hag.</hi> 1.2, 3, 4. &amp;c.</note> And according to our Light, and in our Places, Mind the Building of his Houſe, and Mourn over the Spiritual Deſolations thereof: <hi>Sion,</hi> in this ſence, is a Wilderneſs in too many places, and amongſt too many of Us. And then this is added, <hi>That God may Lighten our eyes, and give us a little Reviving in our Bondage. Which Ligh<g ref="char:EOLhyphen"/>tening
+<pb n="24" facs="tcp:32566:14"/>of eyes,</hi> Ah that it may alſo reach the eyes of our Underſtanding; that through the Spirit of Wiſdom and Revelation in the knowledge of Jeſus Chriſt, the eyes of our under<g ref="char:EOLhyphen"/>ſtandings may be opened, and our Faith in the Lord Jeſus Increaſed: That when Fiery Tryals may come, ſuch as the Primitive and Latter Churches alſo have ſeen, ſhall come; we may then, both Rich and Poor, all be like the Wiſe Merchant, <hi>Who when he had found the Pearl of great price, went and ſold all, that he might Buy it.</hi> And that we may do this al<g ref="char:EOLhyphen"/>ſo with Joy, and full choice of heart: hating Father, Mother, Wife, Chil<g ref="char:EOLhyphen"/>dren, Brethren, Siſters; yea, our own Lives alſo, taking up the Croſs, and following Chriſt, like <hi>Diſciples in<g ref="char:EOLhyphen"/>deed,</hi> Beloved and Taught of God, according to the Promiſe of the New-Covenant. <hi>Amen.</hi>
+            </p>
+            <pb n="25" facs="tcp:32566:14"/>
+            <p>Remember (I beſeech you) ſtill in prayer my Bonds, The grace of our Lord Jeſus Chriſt be with you, <hi>Amen.</hi>
+            </p>
+            <closer>
+               <signed>F. H.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:32566:15" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
